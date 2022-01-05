@@ -1,1 +1,3 @@
-# wiki-public
+# A Wiki
+
+A Wiki powered by TiddlyWiki.
